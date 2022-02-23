@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Deliverer in a panegyric spoken to His Excelency [sic] General Monck at Skinners Hall on Wednesday, April 4th.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37492</idno>
+            <idno type="STC">Wing D910</idno>
+            <idno type="STC">ESTC R21406</idno>
+            <idno type="EEBO-CITATION">12259999</idno>
+            <idno type="OCLC">ocm 12259999</idno>
+            <idno type="VID">57848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57848)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 179:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Deliverer in a panegyric spoken to His Excelency [sic] General Monck at Skinners Hall on Wednesday, April 4th.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57848:1"/>
+            <pb facs="tcp:57848:1" rendition="simple:additions"/>
+            <p>THE DELIVERER IN A PANEGYRIC Spoken to his EXCELENCY General Monck.</p>
+            <p>At SKINNERS HALL on <hi>Wedneſday April</hi> 4th.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1660</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:57848:2"/>
+            <pb n="3" facs="tcp:57848:2"/>
+            <head>THE DELIVERER.</head>
+            <opener>
+               <salute>Great Sir,</salute>
+            </opener>
+            <lg>
+               <l>
+                  <seg rend="decorInit">D</seg>ID not our <hi>unbelieving</hi> grief once ſay</l>
+               <l>That we ſhould never ſee <hi>this happy day?</hi>
+               </l>
+               <l>Did not our preſſures great, but greater fears</l>
+               <l>Command our eyes to wallow ſtill in tears?</l>
+               <l>Or if ſome <hi>dawn</hi> of hope did e'r appear</l>
+               <l>To cozen our juſt ſorrows of a tear;</l>
+               <l>If then a joyful drop ſtole out by chance</l>
+               <l>It ran unſeen, and did the grief advance.</l>
+               <l>Until the ſighs and groans of <hi>the oppreſt</hi>
+               </l>
+               <l>Rouſ'd up a noble anger in your breaſt,</l>
+               <l>To ſnatch our <hi>Freedome</hi> in a Luckie hour,</l>
+               <l>From the fell jaws of <hi>Arbitrary</hi> power.</l>
+               <l>Mov'd like a <hi>Zealous patriot</hi> you drew forth</l>
+               <l>True <hi>Safety bringing Legions</hi> from the <hi>North,</hi>
+               </l>
+               <l>And broke their <hi>Tyranny,</hi> but not their ſhame,</l>
+               <l>Who call'd their <hi>Junto</hi> by ſo falſe a name.</l>
+               <l>Fixt in their <hi>Orbe</hi> once more <hi>thoſe fallen Stars</hi>
+               </l>
+               <l>Then we believ'd might prove our <hi>Tutelars,</hi>
+               </l>
+               <l>Till their dire <hi>Influence</hi> was underſtood</l>
+               <l>To blaſt the <hi>Nations intereſt</hi> and <hi>Good.</hi>
+               </l>
+               <l>How did they court you with officious lies?</l>
+               <l>Whom yet they veiw'd with waking Jealouſies;</l>
+               <l>Since their <hi>falſe love</hi> could no command afford,</l>
+               <l>But what might make you like themſelves abhor'd</l>
+               <l>But ſee! How <hi>Juſtice</hi> ſcourg'd their crimes and threw</l>
+               <l>The hate of ſuch an <hi>Order</hi> where 'twas due;</l>
+               <l>Swelling to ſuch an height the pop'lar rage,</l>
+               <l>As nothing but their ruine could aſſwage.</l>
+               <pb n="4" facs="tcp:57848:3"/>
+               <l>'Twas but high time; when your creating word</l>
+               <l>Some order to our <hi>Chaos</hi> did afford;</l>
+               <l>Charging the <hi>Honour'd reliques</hi> th' of <hi>Old cauſe</hi>
+               </l>
+               <l>Once more t'aſſert our <hi>Liberties and Laws.</hi>
+               </l>
+               <l>But (ah!) They only could aſſwage our grief,</l>
+               <l>Not ſoundly cure the wounds; the true relief</l>
+               <l>Is a full <hi>Seſſions</hi> and a free, to heal,</l>
+               <l>In the right method, the ſick <hi>Commonweal.</hi>
+               </l>
+               <l>Theſe, theſe are <hi>glorious hopes,</hi> which make each breaſt</l>
+               <l>Swel with <hi>unruly joyes;</hi> nor can ours reſt,</l>
+               <l>But, big with their true <hi>zeal,</hi> would let you know</l>
+               <l>What they to ſo <hi>immence a merit</hi> ow.</l>
+               <l>In the glad train of them, ſouls that have rear'd</l>
+               <l>Pure vows of <hi>gratitude,</hi> let ours be heard;</l>
+               <l>Whoſe <hi>pious breathings</hi> would be underſtood</l>
+               <l>To wiſh you ſtil as <hi>Great</hi> as you are <hi>Good.</hi>
+               </l>
+               <l>Ah! <hi>(Noble Sir,)</hi> propitious Heav'n, that meant</l>
+               <l>You <hi>for this great</hi> and glorious <hi>inſtrument,</hi>
+               </l>
+               <l>To make three <hi>Nations</hi> bleſt, ſure did inſpire,</l>
+               <l>And warme your <hi>breaſt</hi> with this <hi>heroic</hi> fire.</l>
+               <l>Where are the <hi>Triumphs?</hi> Where the <hi>Laurels</hi> now</l>
+               <l>That ſhould incircle your victorious brow?</l>
+               <l>Where are thoſe means, that may your <hi>fame</hi> dilate,</l>
+               <l>And mount your Glory 'bove the reach of Fate?</l>
+               <l>
+                  <hi>Pious</hi> Antiquity <hi>Statues</hi> allow'd,</l>
+               <l>Made <hi>Heroes</hi> Gods, and at their <hi>Altars</hi> bow'd;</l>
+               <l>
+                  <hi>Trophies</hi> advanc'd, and <hi>Pyramids</hi> ſo high,</l>
+               <l>Their wounding ſpires might bore the <hi>Galaxie.</hi>
+               </l>
+               <l>In ſtead of theſe pompous expenſive arts,</l>
+               <l>We'l rear you <hi>living pyramids</hi> of hearts,</l>
+               <l>
+                  <hi>Flam'd</hi> with revering thoughts, which when we dye,</l>
+               <l>Shall fall entail'd on our <hi>poſterity:</hi>
+               </l>
+               <l>
+                  <hi>Infants</hi> ſhall be inſtructed how to frame,</l>
+               <l>And lisp (before they know their debt) <hi>Your Name;</hi>
+               </l>
+               <l>Thus by <hi>ſucceſſive reverence</hi> ſhall your Glory,</l>
+               <l>And grand atchievments be immortal ſtory.</l>
+               <pb n="5" facs="tcp:57848:3"/>
+               <l> How did at firſt the ſilly Vulgar gaze</l>
+               <l>At your <hi>ſuſpicious</hi> carriage and delaies?</l>
+               <l>How angry talk, and in a fancy mood,</l>
+               <l>Cenſure <hi>thoſe actions,</hi> they nere underſtood?</l>
+               <l>Poor ſhallow <hi>Hot-ſpurs,</hi> zeal not Judgement ſhow!</l>
+               <l>Have their eyes nere obſerv'd the Sculler Row?</l>
+               <l>Or that, not a clear morn, but <hi>duskiſh Gray</hi>
+               </l>
+               <l>Oftner foretels a <hi>fair inſuing day?</hi>
+               </l>
+               <l>Go on <hi>(Great Sir)</hi> go on, as you begun;</l>
+               <l>Since <hi>ſlighteſt</hi> Counſels are the ſooneſt ſpun,</l>
+               <l>And in ſuch <hi>Miſty</hi> times to walk ſecure,</l>
+               <l>The ſloweſt paces are the ſafeſt ſure.</l>
+               <l>Purſue with <hi>indefatigable</hi> pace</l>
+               <l>Thoſe <hi>brave reſolves,</hi> that did begin the Race:</l>
+               <l>And may (while you through th' <hi>State Ecliptic</hi> run)</l>
+               <l>Your courſe be as unerring as the Sun.</l>
+               <l>And while inſinuating <hi>Earwigs</hi> try</l>
+               <l>To ſnare your Judgement with their flattery:</l>
+               <l>
+                  <hi>Damp</hi> all their curſt deſigns, whoſe pride and hate</l>
+               <l>Might make them elſe the <hi>Boutefeus</hi> of State.</l>
+               <l>You are our <hi>Hopes</hi> upon whoſe ſingle breaſt</l>
+               <l>The <hi>Nations</hi> whole proſperity doth reſt;</l>
+               <l>So ſafe from <hi>Fortunes</hi> vain Artillery</l>
+               <l>We in your <hi>Valour</hi> and your <hi>prudence</hi> lye.</l>
+               <l>Should <hi>Armed Diſcontent</hi> cloud our calm days</l>
+               <l>Or raging ſtorms the <hi>phrantick ſectary</hi> raiſe?</l>
+               <l>We know your <hi>courage</hi> can allay them quite</l>
+               <l>
+                  <hi>Look</hi> up the <hi>winds,</hi> and <hi>ſlumber</hi> all their ſpite.</l>
+               <l>Guid then the <hi>publick Veſſel</hi> and ſo ſtear</l>
+               <l>From <hi>treacherous rocks</hi> and <hi>greedy quicksands</hi> clear</l>
+               <l>Into the <hi>port,</hi> where it may ride ſecure</l>
+               <l>In you the skilful watchful <hi>palinure.</hi>
+               </l>
+               <l>Thus while your Vertues ſhine with conſtant light,</l>
+               <l>
+                  <hi>Envy</hi> may ſhew her teeth but never bite;</l>
+               <l>Too weak to hurt ſhe and her <hi>brood</hi> accurſt</l>
+               <l>Will by the rage of their own Venom burſt.</l>
+               <pb n="6" facs="tcp:57848:4"/>
+               <l> Deſcend <hi>(bleſt peace,)</hi> from Heaven to us below,</l>
+               <l>Long look't for come; The Gallant MONK ſay ſo:</l>
+               <l>With balmy hand <hi>(ah! Borbarous civil Wars)</hi>
+               </l>
+               <l>Cure both our <hi>Wounds,</hi> and take away the <hi>ſcars.</hi>
+               </l>
+               <l>Clap thy glad pinions on, be no more <hi>coy,</hi>
+               </l>
+               <l>But ſpread throughout an univerſal joy,</l>
+               <l>Shout cheriſhing ſeat, through the whole <hi>Commonweale,</hi>
+               </l>
+               <l>That ev'ry member may its vigour feel.</l>
+               <l>Raiſe the ſad <hi>Church,</hi> from aſhes where ſhe lies,</l>
+               <l>Nor let <hi>mad zeale</hi> more ſpurn them in her eyes:</l>
+               <l>Bright in her priſtine form ſhall ſhe inſpire</l>
+               <l>Then with new ſongs of praiſe her holy <hi>Lyre.</hi>
+               </l>
+               <l>Make the hot ſervants of the <hi>Alter</hi> feare</l>
+               <l>Their <hi>Maſters</hi> feamleſs coat again to tear;</l>
+               <l>Leaſt it be ever mention'd to their ſhame,</l>
+               <l>Their <hi>holy-water</hi> doth all broyls <hi>inflame.</hi>
+               </l>
+               <l>Fly through the <hi>Courts of Juſtice,</hi> make them be</l>
+               <l>Firm pillars of unbiaſs'd equity;</l>
+               <l>where neither fear nor favour ſhall prevaile,</l>
+               <l>But hands <hi>unpalſi'd</hi> hold the even ſeale.</l>
+               <l>Calm to the good, but ſtern towards the baſe,</l>
+               <l>Learn them to give or Glory or Diſgace,</l>
+               <l>Free from that unjuſt and obſequious aw,</l>
+               <l>That too oft warp'd their Judgements from the Law.</l>
+               <l>Then ſhed the welcome favour of thy ſmiles</l>
+               <l>On all the <hi>Schools</hi> of <hi>Learning</hi> in our <hi>Jles;</hi>
+               </l>
+               <l>Let their high Laws record, twas MOMK that made</l>
+               <l>The Arts break out from their <hi>inglorious ſhade</hi>
+               </l>
+               <l>Give Learned; <hi>Oxford</hi> hopes, hopes not in vain</l>
+               <l>That their <hi>dry bayes</hi> ſhall burgeon once again;</l>
+               <l>And that their <hi>hony</hi> ſhall no more be thrown</l>
+               <l>To be a guerdon for the <hi>Waſp</hi> or <hi>Drone.</hi>
+               </l>
+               <l>Bid <hi>Chams</hi> pure Waters run unmuddi'd now,</l>
+               <l>And all his <hi>Muſes</hi> wear a cheerful brow:</l>
+               <l>Strike (Siſters) ſtrike the <hi>Panegyrie Vein,</hi>
+               </l>
+               <l>While <hi>The Deliverer</hi> cloſes every ſtrain.</l>
+               <pb n="7" facs="tcp:57848:4"/>
+               <l> Caſt on <hi>this City</hi> too a pleaſing glance,</l>
+               <l>Their hopes incourage, and their <hi>trade</hi> advance,</l>
+               <l>Give them <hi>light</hi> hearts, who fear no greater curſe</l>
+               <l>Then <hi>heavy</hi> hearts, that ſpring from a <hi>light</hi> purſe.</l>
+               <l>Nor longer let the <hi>Flayl</hi> and <hi>plow</hi> be curſt;</l>
+               <l>Rejoyce <hi>(Swain)</hi> in thy labours as at firſt,</l>
+               <l>And when our preſent publick needs relax,</l>
+               <l>Sweat thou no more for an Exciſe or Tax.</l>
+               <l>When thus <hi>(deareſt peace)</hi> tho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhalt diſpenſe,</l>
+               <l>Great MONK protecting this bland Influence;</l>
+               <l>plenty our wiſhes ſhall anticipate</l>
+               <l>And make theſe <hi>Iſles the truely Fortunate:</hi>
+               </l>
+               <l>So Mangre their mad rage that dare oppoſe,</l>
+               <l>Shal we ariſe a <hi>Nation Glorious.</hi>
+               </l>
+               <l>The joy of our friends eyes, but enemies ſore,</l>
+               <l>Who though they deadly hate, ſhall fear us more.</l>
+               <l>Thus with more <hi>luſtre</hi> doth the conquering Sun</l>
+               <l>Break through a Cloudy Exhaltation:</l>
+               <l>Thus welcur'd ſickneſſes confirm the more,</l>
+               <l>And Fractur'd bones grow ſtronger then before.</l>
+               <l>Thrice bleſt be you! (Juſt <hi>General</hi>) for no leſſe</l>
+               <l>Then <hi>Brittains</hi> preſent and hop'd happineſſe:</l>
+               <l>Our throng'd petitions, ſhall nere ceaſe to riſe</l>
+               <l>For You and Yours a Votive <hi>Sacrifice.</hi>
+               </l>
+               <l>May you have bleſſings from an endleſſe ſtore</l>
+               <l>And nere know croſſe to make you prize them more,</l>
+               <l>Health and long life attend, you and a mind</l>
+               <l>From common <hi>dreggie</hi> paſſions refin'd.</l>
+               <l>As peace without, may you have peace within,</l>
+               <l>Calm conſcience and the guilt of no black ſin.</l>
+               <l>Sweet end your days, and may your night end ſo,</l>
+               <l>And never an affrighting <hi>Viſion</hi> know,</l>
+               <l>Let <hi>diſcontent</hi> its ſullen forces prove</l>
+               <l>On them that marry where they cannot Love;</l>
+               <l>Send anxious thoughts to Merchants, in whoſe minds:</l>
+               <l>Fear keeps a greater coil then the row winds:</l>
+               <pb n="8" facs="tcp:57848:5"/>
+               <l> But let your joy be ſuch as <hi>Heroes</hi> warm,</l>
+               <l>When they reviw the beauty, order, charms</l>
+               <l>Of <hi>Kingdomes</hi> moving <hi>regular</hi> and <hi>true</hi>
+               </l>
+               <l>Which their <hi>high courage</hi> from confuſion drew.</l>
+               <l>May <hi>Angels</hi> be your <hi>Life-guard,</hi> and ſtill ſtand</l>
+               <l>Safe to protect you from the <hi>treacherous</hi> hand</l>
+               <l>And ſince ſuch power have pure pray'rs ours ſhall be,</l>
+               <l>Your never penetrable <hi>Cap-a-ne.</hi>
+               </l>
+               <l>Still with freſh <hi>Laurels</hi> be your temples preſt</l>
+               <l>Snatch'd from the ſwelling foes triumphed creſt:</l>
+               <l>Firm ſtand your <hi>Legions</hi> may they never flie</l>
+               <l>(Unleſſe after a <hi>routed Enemy</hi>)</l>
+               <l>True, juſt, and no more wav'ring then the <hi>poles,</hi>
+               </l>
+               <l>As if a ray from Yours had fixt their ſouls.</l>
+               <l>May that immortal honour and renown</l>
+               <l>which being <hi>our Deliverer</hi> you have won,</l>
+               <l>Look with blith face and never ſmiling lips;</l>
+               <l>And nere be darkned by the leaſt Eclipſe.</l>
+               <l>What ſhall we wiſh you more? SIR, may you know</l>
+               <l>All that is <hi>truly good,</hi> or men <hi>prize ſo.</hi>
+               </l>
+               <l>If there be more then this, we muſt not name</l>
+               <l>It till the <hi>Royal Charls</hi> confirm the ſame</l>
+               <l>
+                  <hi>(Crown'd</hi> by <hi>your hand)</hi> when he (all foes ſubdu'd)</l>
+               <l>Makes you a <hi>Star</hi> of the <hi>firſt Magnitude.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57848:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
